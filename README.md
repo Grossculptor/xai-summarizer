@@ -142,12 +142,6 @@ For security concerns, please see our [Security Policy](SECURITY.md).
 - Chrome Extensions documentation and community
 - All contributors and users of this extension
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/xai-summarizer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/xai-summarizer/discussions)
-- **Email**: your-email@example.com
-
 ---
 
 <div align="center">
