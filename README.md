@@ -18,6 +18,12 @@
 
 X.AI Website Summarizer is a Chrome extension that leverages the power of X.AI's Grok model to provide instant, intelligent summaries of any webpage. With just one click, transform lengthy articles, blog posts, and documentation into concise, digestible summaries.
 
+## 📸 Extension Preview
+
+<p align="center">
+  <img src="exten.jpg" alt="Screenshot of the X.AI Summarizer extension popup" width="600">
+</p>
+
 ## ✨ Features
 
 - 🚀 **One-Click Summarization** - Instantly summarize any webpage with a single click
